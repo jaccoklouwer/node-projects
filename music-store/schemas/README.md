@@ -1,0 +1,1 @@
+Place schema files in this directory.
